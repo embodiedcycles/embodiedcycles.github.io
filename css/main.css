@@ -97,10 +97,6 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-header {
-    background: #EFD8B8;
-}
-
 #business {
     background: #EFD8B8;
     float: inherit;
@@ -191,6 +187,7 @@ img {
 }
 
 #faq {
+    background: white;
     text-align: left;
     padding: 40pt;
     float: inherit;
@@ -204,6 +201,7 @@ img {
 }
 
 #bio {
+    background: white;
     text-align: center;
     padding: 40pt;
     float: inherit;
