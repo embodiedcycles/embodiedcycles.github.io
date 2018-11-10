@@ -207,6 +207,20 @@ img {
     float: inherit;
 }
 
+#inclusive {
+    background: #E1E8E0;
+    text-align: center;
+    padding: 40pt;
+    float: inherit;
+}
+
+#assoc {
+    background: white;
+    text-align: center;
+    padding: 40pt;
+    float: inherit;
+}
+
 p {
     font-family: "Helvetica", sans-serif;
     color: #001E4A;
