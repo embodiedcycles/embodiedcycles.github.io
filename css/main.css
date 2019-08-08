@@ -211,6 +211,8 @@ img {
     background: #E1E8E0;
     text-align: center;
     padding: 40pt;
+    padding-left: 20pt;
+    padding-right: 20pt;
     float: inherit;
 }
 
